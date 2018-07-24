@@ -1,0 +1,5 @@
+Komutlar:
+mb-yardım: Komut listesini gösterir.
+mb-warrock: Sizi batlatmaz, kickletir.
+mb-madcity: MadCity'de gezinti.
+PING: Pong!

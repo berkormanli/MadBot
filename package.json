@@ -1,0 +1,22 @@
+{
+  "name": "madbot",
+  "version": "0.0.1",
+  "description": "Icinde madlik bulunan bot!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Berk Ormanlı",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "get-youtube-id": "^1.0.0",
+    "opusscript": "0.0.6",
+    "random-number": "0.0.9",
+    "youtube-info": "^1.2.0"
+  }
+}
